@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 72ea26b5ed68afc448c2128a96834774
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box006
+    100004: Box020
+    100006: Box027
+    100008: Camera001
+    100010: Camera001.Target
+    100012: coll-top-1
+    100014: Cylinder001
+    100016: down
+    100018: esc021
+    100020: //RootNode
+    100022: Rectangle001
+    100024: Rectangle002
+    100026: side door
+    100028: slidingHall1
+    100030: slidingHall2
+    100032: up
+    100034: Box028
+    100036: Box029
+    400000: Box001
+    400002: Box006
+    400004: Box020
+    400006: Box027
+    400008: Camera001
+    400010: Camera001.Target
+    400012: coll-top-1
+    400014: Cylinder001
+    400016: down
+    400018: esc021
+    400020: //RootNode
+    400022: Rectangle001
+    400024: Rectangle002
+    400026: side door
+    400028: slidingHall1
+    400030: slidingHall2
+    400032: up
+    400034: Box028
+    400036: Box029
+    2300000: Box001
+    2300002: Box006
+    2300004: Box020
+    2300006: Box027
+    2300008: coll-top-1
+    2300010: Cylinder001
+    2300012: down
+    2300014: esc021
+    2300016: Rectangle001
+    2300018: Rectangle002
+    2300020: side door
+    2300022: slidingHall1
+    2300024: slidingHall2
+    2300026: up
+    2300028: Box028
+    2300030: Box029
+    3300000: Box001
+    3300002: Box006
+    3300004: Box020
+    3300006: Box027
+    3300008: coll-top-1
+    3300010: Cylinder001
+    3300012: down
+    3300014: esc021
+    3300016: Rectangle001
+    3300018: Rectangle002
+    3300020: side door
+    3300022: slidingHall1
+    3300024: slidingHall2
+    3300026: up
+    3300028: Box028
+    3300030: Box029
+    4300000: Box001
+    4300002: up
+    4300004: slidingHall1
+    4300006: Box006
+    4300008: coll-top-1
+    4300010: slidingHall2
+    4300012: Box020
+    4300014: down
+    4300016: Box027
+    4300018: Cylinder001
+    4300020: Rectangle001
+    4300022: Rectangle002
+    4300024: esc021
+    4300026: side door
+    4300028: Box028
+    4300030: Box029
+    7400000: Idle
+    7400002: Sliding
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: coll-top-1
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: down
+        weight: 1
+      - path: esc021
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle002
+        weight: 1
+      - path: side door
+        weight: 1
+      - path: slidingHall1
+        weight: 1
+      - path: slidingHall2
+        weight: 1
+      - path: up
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sliding
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: coll-top-1
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: down
+        weight: 1
+      - path: esc021
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle002
+        weight: 1
+      - path: side door
+        weight: 1
+      - path: slidingHall1
+        weight: 1
+      - path: slidingHall2
+        weight: 1
+      - path: up
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

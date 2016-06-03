@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 1a5245bbb9d9d4145a8eae43dd04610f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box006
+    100004: Box020
+    100006: Box027
+    100008: Camera001
+    100010: Camera001.Target
+    100012: coll-top-1
+    100014: Cylinder001
+    100016: down
+    100018: esc021
+    100020: //RootNode
+    100022: Rectangle001
+    100024: Rectangle002
+    100026: side door
+    100028: slidingHall1
+    100030: slidingHall1 1
+    100032: up
+    400000: Box001
+    400002: Box006
+    400004: Box020
+    400006: Box027
+    400008: Camera001
+    400010: Camera001.Target
+    400012: coll-top-1
+    400014: Cylinder001
+    400016: down
+    400018: esc021
+    400020: //RootNode
+    400022: Rectangle001
+    400024: Rectangle002
+    400026: side door
+    400028: slidingHall1
+    400030: slidingHall1 1
+    400032: up
+    2300000: Box001
+    2300002: Box006
+    2300004: Box020
+    2300006: Box027
+    2300008: coll-top-1
+    2300010: Cylinder001
+    2300012: down
+    2300014: esc021
+    2300016: Rectangle001
+    2300018: Rectangle002
+    2300020: side door
+    2300022: slidingHall1
+    2300024: slidingHall1 1
+    2300026: up
+    3300000: Box001
+    3300002: Box006
+    3300004: Box020
+    3300006: Box027
+    3300008: coll-top-1
+    3300010: Cylinder001
+    3300012: down
+    3300014: esc021
+    3300016: Rectangle001
+    3300018: Rectangle002
+    3300020: side door
+    3300022: slidingHall1
+    3300024: slidingHall1 1
+    3300026: up
+    4300000: Box001
+    4300002: up
+    4300004: slidingHall1
+    4300006: Box006
+    4300008: coll-top-1
+    4300010: slidingHall1
+    4300012: Box020
+    4300014: down
+    4300016: Box027
+    4300018: Cylinder001
+    4300020: Rectangle001
+    4300022: Rectangle002
+    4300024: esc021
+    4300026: side door
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

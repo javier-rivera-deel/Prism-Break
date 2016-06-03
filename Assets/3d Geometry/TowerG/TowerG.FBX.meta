@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 4c5955cf5af99b142a997f1baee71a39
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box104
+    100002: Gengon001
+    100004: Gengon002
+    100006: Gengon003
+    100008: Gengon004
+    100010: Gengon005
+    100012: Gengon006
+    100014: Gengon007
+    100016: Gengon008
+    100018: Gengon009
+    100020: Gengon010
+    100022: Gengon011
+    100024: Line012
+    100026: Line013
+    100028: //RootNode
+    400000: Box104
+    400002: Gengon001
+    400004: Gengon002
+    400006: Gengon003
+    400008: Gengon004
+    400010: Gengon005
+    400012: Gengon006
+    400014: Gengon007
+    400016: Gengon008
+    400018: Gengon009
+    400020: Gengon010
+    400022: Gengon011
+    400024: Line012
+    400026: Line013
+    400028: //RootNode
+    2300000: Box104
+    2300002: Gengon001
+    2300004: Gengon002
+    2300006: Gengon003
+    2300008: Gengon004
+    2300010: Gengon005
+    2300012: Gengon006
+    2300014: Gengon007
+    2300016: Gengon008
+    2300018: Gengon009
+    2300020: Gengon010
+    2300022: Gengon011
+    2300024: Line012
+    2300026: Line013
+    3300000: Box104
+    3300002: Gengon001
+    3300004: Gengon002
+    3300006: Gengon003
+    3300008: Gengon004
+    3300010: Gengon005
+    3300012: Gengon006
+    3300014: Gengon007
+    3300016: Gengon008
+    3300018: Gengon009
+    3300020: Gengon010
+    3300022: Gengon011
+    3300024: Line012
+    3300026: Line013
+    4300000: Gengon001
+    4300002: Gengon002
+    4300004: Gengon003
+    4300006: Gengon004
+    4300008: Gengon005
+    4300010: Gengon006
+    4300012: Gengon007
+    4300014: Gengon008
+    4300016: Gengon009
+    4300018: Gengon010
+    4300020: Gengon011
+    4300022: Line012
+    4300024: Line013
+    4300026: Box104
+    7400000: Idle
+    7400002: Rotating
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box104
+        weight: 1
+      - path: Gengon001
+        weight: 1
+      - path: Gengon002
+        weight: 1
+      - path: Gengon003
+        weight: 1
+      - path: Gengon004
+        weight: 1
+      - path: Gengon005
+        weight: 1
+      - path: Gengon006
+        weight: 1
+      - path: Gengon007
+        weight: 1
+      - path: Gengon008
+        weight: 1
+      - path: Gengon009
+        weight: 1
+      - path: Gengon010
+        weight: 1
+      - path: Gengon011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Rotating
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box104
+        weight: 1
+      - path: Gengon001
+        weight: 1
+      - path: Gengon002
+        weight: 1
+      - path: Gengon003
+        weight: 1
+      - path: Gengon004
+        weight: 1
+      - path: Gengon005
+        weight: 1
+      - path: Gengon006
+        weight: 1
+      - path: Gengon007
+        weight: 1
+      - path: Gengon008
+        weight: 1
+      - path: Gengon009
+        weight: 1
+      - path: Gengon010
+        weight: 1
+      - path: Gengon011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

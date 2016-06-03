@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 200b941169d94734d85c8b9ef4e0f10c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Box004
+    100006: Box005
+    100008: Box006
+    100010: Box007
+    100012: Box008
+    100014: Box009
+    100016: Box010
+    100018: Box012
+    100020: Box013
+    100022: Camera001
+    100024: Camera001.Target
+    100026: Cone001
+    100028: Gengon001
+    100030: Gengon002
+    100032: Gengon003
+    100034: Gengon004
+    100036: Gengon005
+    100038: Gengon006
+    100040: Gengon007
+    100042: Gengon008
+    100044: Gengon009
+    100046: Gengon010
+    100048: Gengon011
+    100050: Gengon012
+    100052: Line001
+    100054: Line002
+    100056: Line003
+    100058: Line004
+    100060: Line005
+    100062: Line006
+    100064: //RootNode
+    100066: Sphere001
+    100068: Sphere002
+    100070: Sphere003
+    100072: Sphere004
+    100074: Sphere005
+    100076: Sphere006
+    100078: Sphere007
+    100080: Sphere008
+    100082: Sphere009
+    100084: Sphere010
+    400000: Box002
+    400002: Box003
+    400004: Box004
+    400006: Box005
+    400008: Box006
+    400010: Box007
+    400012: Box008
+    400014: Box009
+    400016: Box010
+    400018: Box012
+    400020: Box013
+    400022: Camera001
+    400024: Camera001.Target
+    400026: Cone001
+    400028: Gengon001
+    400030: Gengon002
+    400032: Gengon003
+    400034: Gengon004
+    400036: Gengon005
+    400038: Gengon006
+    400040: Gengon007
+    400042: Gengon008
+    400044: Gengon009
+    400046: Gengon010
+    400048: Gengon011
+    400050: Gengon012
+    400052: Line001
+    400054: Line002
+    400056: Line003
+    400058: Line004
+    400060: Line005
+    400062: Line006
+    400064: //RootNode
+    400066: Sphere001
+    400068: Sphere002
+    400070: Sphere003
+    400072: Sphere004
+    400074: Sphere005
+    400076: Sphere006
+    400078: Sphere007
+    400080: Sphere008
+    400082: Sphere009
+    400084: Sphere010
+    2300000: Box002
+    2300002: Box003
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: Box009
+    2300016: Box010
+    2300018: Box012
+    2300020: Box013
+    2300022: Cone001
+    2300024: Gengon001
+    2300026: Gengon002
+    2300028: Gengon003
+    2300030: Gengon004
+    2300032: Gengon005
+    2300034: Gengon006
+    2300036: Gengon007
+    2300038: Gengon008
+    2300040: Gengon009
+    2300042: Gengon010
+    2300044: Gengon011
+    2300046: Gengon012
+    2300048: Line001
+    2300050: Line002
+    2300052: Line003
+    2300054: Line004
+    2300056: Line005
+    2300058: Line006
+    2300060: Sphere001
+    2300062: Sphere002
+    2300064: Sphere003
+    2300066: Sphere004
+    2300068: Sphere005
+    2300070: Sphere006
+    2300072: Sphere007
+    2300074: Sphere008
+    2300076: Sphere009
+    2300078: Sphere010
+    3300000: Box002
+    3300002: Box003
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: Box009
+    3300016: Box010
+    3300018: Box012
+    3300020: Box013
+    3300022: Cone001
+    3300024: Gengon001
+    3300026: Gengon002
+    3300028: Gengon003
+    3300030: Gengon004
+    3300032: Gengon005
+    3300034: Gengon006
+    3300036: Gengon007
+    3300038: Gengon008
+    3300040: Gengon009
+    3300042: Gengon010
+    3300044: Gengon011
+    3300046: Gengon012
+    3300048: Line001
+    3300050: Line002
+    3300052: Line003
+    3300054: Line004
+    3300056: Line005
+    3300058: Line006
+    3300060: Sphere001
+    3300062: Sphere002
+    3300064: Sphere003
+    3300066: Sphere004
+    3300068: Sphere005
+    3300070: Sphere006
+    3300072: Sphere007
+    3300074: Sphere008
+    3300076: Sphere009
+    3300078: Sphere010
+    4300000: Cone001
+    4300002: Line001
+    4300004: Line002
+    4300006: Sphere001
+    4300008: Sphere002
+    4300010: Sphere003
+    4300012: Sphere004
+    4300014: Sphere005
+    4300016: Sphere006
+    4300018: Sphere007
+    4300020: Sphere008
+    4300022: Sphere009
+    4300024: Sphere010
+    4300026: Line003
+    4300028: Line004
+    4300030: Line005
+    4300032: Box002
+    4300034: Box003
+    4300036: Line006
+    4300038: Box004
+    4300040: Box005
+    4300042: Box006
+    4300044: Box007
+    4300046: Box008
+    4300048: Gengon001
+    4300050: Gengon002
+    4300052: Gengon003
+    4300054: Gengon004
+    4300056: Box009
+    4300058: Gengon005
+    4300060: Gengon006
+    4300062: Gengon007
+    4300064: Box010
+    4300066: Gengon008
+    4300068: Box012
+    4300070: Gengon009
+    4300072: Gengon010
+    4300074: Gengon011
+    4300076: Gengon012
+    4300078: Box013
+    7400000: Acess
+    7400002: Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Acess
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box005
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Gengon001
+        weight: 1
+      - path: Gengon002
+        weight: 1
+      - path: Gengon003
+        weight: 1
+      - path: Gengon004
+        weight: 1
+      - path: Gengon005
+        weight: 1
+      - path: Gengon006
+        weight: 1
+      - path: Gengon007
+        weight: 1
+      - path: Gengon008
+        weight: 1
+      - path: Gengon009
+        weight: 1
+      - path: Gengon010
+        weight: 1
+      - path: Gengon011
+        weight: 1
+      - path: Gengon012
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Line005
+        weight: 1
+      - path: Line006
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Sphere005
+        weight: 1
+      - path: Sphere006
+        weight: 1
+      - path: Sphere007
+        weight: 1
+      - path: Sphere008
+        weight: 1
+      - path: Sphere009
+        weight: 1
+      - path: Sphere010
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box005
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Gengon001
+        weight: 1
+      - path: Gengon002
+        weight: 1
+      - path: Gengon003
+        weight: 1
+      - path: Gengon004
+        weight: 1
+      - path: Gengon005
+        weight: 1
+      - path: Gengon006
+        weight: 1
+      - path: Gengon007
+        weight: 1
+      - path: Gengon008
+        weight: 1
+      - path: Gengon009
+        weight: 1
+      - path: Gengon010
+        weight: 1
+      - path: Gengon011
+        weight: 1
+      - path: Gengon012
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Line005
+        weight: 1
+      - path: Line006
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Sphere005
+        weight: 1
+      - path: Sphere006
+        weight: 1
+      - path: Sphere007
+        weight: 1
+      - path: Sphere008
+        weight: 1
+      - path: Sphere009
+        weight: 1
+      - path: Sphere010
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

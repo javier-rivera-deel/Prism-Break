@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 5500ca332460a57439c86f533dfd2182
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box004
+    100002: Box005
+    100004: Box006
+    100006: Box007
+    100008: Box008
+    100010: collider passage
+    100012: collider runway
+    100014: columns
+    100016: lights
+    100018: main runway
+    100020: //RootNode
+    100022: passage1
+    100024: passage2
+    100026: passage3
+    100028: passage4
+    100030: puzzle platform
+    100032: wheels
+    100034: Camera002.Target
+    400000: Box004
+    400002: Box005
+    400004: Box006
+    400006: Box007
+    400008: Box008
+    400010: collider passage
+    400012: collider runway
+    400014: columns
+    400016: lights
+    400018: main runway
+    400020: //RootNode
+    400022: passage1
+    400024: passage2
+    400026: passage3
+    400028: passage4
+    400030: puzzle platform
+    400032: wheels
+    400034: Camera002.Target
+    2300000: Box004
+    2300002: Box005
+    2300004: Box006
+    2300006: Box007
+    2300008: Box008
+    2300010: collider passage
+    2300012: collider runway
+    2300014: columns
+    2300016: lights
+    2300018: main runway
+    2300020: passage1
+    2300022: passage2
+    2300024: passage3
+    2300026: passage4
+    2300028: puzzle platform
+    2300030: wheels
+    3300000: Box004
+    3300002: Box005
+    3300004: Box006
+    3300006: Box007
+    3300008: Box008
+    3300010: collider passage
+    3300012: collider runway
+    3300014: columns
+    3300016: lights
+    3300018: main runway
+    3300020: passage1
+    3300022: passage2
+    3300024: passage3
+    3300026: passage4
+    3300028: puzzle platform
+    3300030: wheels
+    4300000: main runway
+    4300002: lights
+    4300004: puzzle platform
+    4300006: Box004
+    4300008: Box005
+    4300010: Box006
+    4300012: Box007
+    4300014: Box008
+    4300016: wheels
+    4300018: passage1
+    4300020: passage2
+    4300022: passage3
+    4300024: passage4
+    4300026: collider runway
+    4300028: collider passage
+    4300030: columns
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
