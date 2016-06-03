@@ -9,3 +9,10 @@ Cuenta la historia de un mundo, el cual es azotado por el fan de la oscuridad Dr
 Este prisma, es alimentado por los 7 ministerios cromaticos, los cuales son intervenidos por la armada de Dr. Black, los erasers, evitando asi que cada ministerio genere el color necesario para iluminar a todo el mundo.
 
 El personaje principal, Hashtag, embarca una aventura para derrotar a Dr. Black, restaurando la iluminacion.
+
+
+![ScreenShot](https://raw.github.com/javipisobeto/Prism-Break/master/Screenshots/2.jpg)
+
+![ScreenShot](https://raw.github.com/javipisobeto/Prism-Break/master/Screenshots/1.jpg)
+
+![ScreenShot](https://raw.github.com/javipisobeto/Prism-Break/master/Screenshots/3.jpg)
